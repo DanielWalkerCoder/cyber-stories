@@ -1,0 +1,53 @@
+html {
+    background-color: black;
+}
+
+header {
+    display: flex;
+    background-color: pink;
+    width: 100%;
+    margin: auto;
+}
+
+body {
+    width: 80%;
+    margin: 20px auto;
+    background-color: black;
+}
+
+h6 {
+    margin: 14px 0 0 8px;
+}
+
+p {
+    margin: -3px;
+}
+
+a {
+    color: lightgreen;
+}
+
+.line2 {
+    color: white;
+}
+
+ol li::marker {
+    color: pink;
+    margin-top: 3px;
+}
+
+footer p {
+    color: pink;
+    text-align: center;
+}
+
+.showHide {
+    width: auto;
+    /* height: 50%; */
+    background-color: gray;
+    color: white;
+}
+
+ul li {
+    color: white;
+}
